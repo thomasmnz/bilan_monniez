@@ -2,5 +2,5 @@
 
 Clonez le repository :
 ```bash
-git clone https://github.com/ton_username/ton_repository.git
-cd ton_repository
+git clone https://github.com/thomasmne/bilan_monniez.git
+cd bilan_monniez
