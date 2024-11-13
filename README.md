@@ -18,9 +18,12 @@ Ce repository contient les fichiers suivants :
 
 ## Étapes d'installation et d'utilisation
 
-### 1. Cloner le Projet
+### 1. Cloner le Projet 
 
 Commencez par cloner ce repository GitHub dans votre VM :
 ```bash
 git clone https://github.com/ton_username/ton_repository.git
 cd ton_repository
+
+
+
